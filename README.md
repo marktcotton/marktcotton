@@ -1,1 +1,1 @@
-[![Peakweb](http://peakweb.io/images/logos/peakweb-green.svg)](https://peakweb.io)
+[![Peakweb](https://peakweb.io/images/logos/peakweb-two-tone.svg)](https://peakweb.io)
